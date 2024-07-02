@@ -1,5 +1,7 @@
 # text-tags-component
 
+Тестовое задание в ТЕХНЕЗИС
+
 ## Project setup
 ```
 npm install
